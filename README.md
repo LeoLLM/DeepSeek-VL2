@@ -402,3 +402,9 @@ This code repository is licensed under [MIT License](./LICENSE-CODE). The use of
 ## 7. Contact
 
 If you have any questions, please raise an issue or contact us at [service@deepseek.com](mailto:service@deepseek.com).
+
+## 8. Related Projects
+
+1. Related project [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL)
+2. Related project [Aria](https://github.com/rhymes-ai/Aria)
+3. Related project [Kimi_VL_A3B](https://github.com/harpreetsahota204/Kimi_VL_A3B)
